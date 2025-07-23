@@ -43,8 +43,8 @@ With a strong background in **3rd-party API integrations**, I've worked on numer
 
 ## 📈 GitHub Stats
 
-![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashirbhatti&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbhatti&layout=compact&theme=radical)
+![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashir-Bhatti&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Bhatti&layout=compact&theme=radical)
 
 ---
 
